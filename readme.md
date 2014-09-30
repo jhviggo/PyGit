@@ -1,7 +1,3 @@
 # ==Programmers Git-Lab==
 
---- Main ---
-Python
-C++
-HTML
-Java
+Mainly made for python projects. 
