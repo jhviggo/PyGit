@@ -1,6 +1,6 @@
-==Programmers Git-Lab==
+--Programmers Git-Lab--
 
-# --Main-- #
+# Main
 Python
 C++
 HTML
