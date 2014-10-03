@@ -52,3 +52,4 @@ for t in search:
     for f in files[search.index(t)]:
         print("\t"+f)
 print("------------")
+input("Press enter to continue!")
